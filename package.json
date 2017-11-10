@@ -1,0 +1,27 @@
+{
+  "name": "jamescoin",
+  "version": "1.0.0",
+  "description": "JavaScript Blockchain",
+  "main": "main.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtandy13/JamesCoin.git"
+  },
+  "keywords": [
+    "javascript",
+    "blockchain"
+  ],
+  "author": "james tandy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtandy13/JamesCoin/issues"
+  },
+  "homepage": "https://github.com/jtandy13/JamesCoin#readme"
+}
